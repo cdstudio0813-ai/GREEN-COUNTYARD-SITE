@@ -1,0 +1,20 @@
+[
+  {
+    "title": "花蓮庭院改造",
+    "category": "日式庭院",
+    "image": "assets/images/garden1.jpg",
+    "location": "花蓮"
+  },
+  {
+    "title": "松樹修整案例",
+    "category": "樹木修整",
+    "image": "assets/images/tree1.jpg",
+    "location": "吉安"
+  },
+  {
+    "title": "植栽景觀配置",
+    "category": "植栽",
+    "image": "assets/images/plant1.jpg",
+    "location": "壽豐"
+  }
+]
